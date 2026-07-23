@@ -1,0 +1,37 @@
+{
+  "_說明": "把在 591 網頁上設好篩選條件後的『搜尋結果網址』整條貼進每個 url。程式會自動讀取網址裡的 region/section/kind/其他參數。硬條件(租金/房數/屋主)由程式再過濾一次。",
+  "max_price": 30000,
+  "min_rooms": 2,
+  "max_rooms": 3,
+  "owner_only": false,
+  "_owner_only_說明": "設 true 只保留屋主自租(免仲介費)；先設 false 觀察量，再決定要不要收緊",
+  "dashboard_url": "https://arink393-ai.github.io/rent591/",
+  "_dashboard_url_說明": "改成你實際的 GitHub Pages 網址，會放進通知信的按鈕連結",
+
+  "searches": [
+    {
+      "name": "台北-文山區(公館/萬隆/景美)",
+      "url": "https://rent.591.com.tw/?region=1&section=12&kind=1&rentprice=2000_30000&other=pet"
+    },
+    {
+      "name": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
+      "url": "https://rent.591.com.tw/?region=3&section=34&kind=1&rentprice=2000_30000&other=pet"
+    },
+    {
+      "name": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
+      "url": "https://rent.591.com.tw/?region=1&section=SECTION_中正&kind=1&rentprice=2000_30000&other=pet"
+    },
+    {
+      "name": "台北-大安區(台科大附近) 【請換成你複製的網址】",
+      "url": "https://rent.591.com.tw/?region=1&section=SECTION_大安&kind=1&rentprice=2000_30000&other=pet"
+    },
+    {
+      "name": "新北-永和區(頂溪/永安市場) 【請換成你複製的網址】",
+      "url": "https://rent.591.com.tw/?region=3&section=SECTION_永和&kind=1&rentprice=2000_30000&other=pet"
+    },
+    {
+      "name": "新北-中和區(景安/南勢角) 【請換成你複製的網址】",
+      "url": "https://rent.591.com.tw/?region=3&section=SECTION_中和&kind=1&rentprice=2000_30000&other=pet"
+    }
+  ]
+}
