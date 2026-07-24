@@ -37,7 +37,7 @@ PREV_PATH = os.path.join(ROOT, "data", "state.json")     # 長期記憶：每個
 LATEST_PATH = os.path.join(ROOT, "data", "latest.json")  # 今日結果快照
 HTML_PATH = os.path.join(ROOT, "docs", "index.html")
 
-LIST_API = "https://rent.591.com.tw/home/search/rsList"
+LIST_API = "https://bff-house.591.com.tw/v3/web/rent/list"  # 591 於 2026 改版後的新 API
 HOME_URL = "https://rent.591.com.tw"
 REQUEST_DELAY = 3.0      # 每次 API 請求間隔秒數（請勿調太低）
 PAGE_SIZE = 30
@@ -53,20 +53,14 @@ def load_config():
 
 
 def new_session(region):
-    """建立帶 CSRF token 與必要 cookie 的 session。"""
+    """建立打新版 bff-house API 用的 session（2026 改版後不再需要 CSRF token）。"""
     s = requests.Session()
     s.headers.update({
         "User-Agent": UA,
         "Accept": "application/json, text/plain, */*",
-        "X-Requested-With": "XMLHttpRequest",
         "Referer": HOME_URL + "/",
+        "device": "pc",  # 新 API 認這個 header，缺了會回 419
     })
-    # 先 GET 首頁拿 cookie 與 csrf-token
-    r = s.get(HOME_URL, timeout=20)
-    m = re.search(r'name="csrf-token"\s+content="([^"]+)"', r.text)
-    if m:
-        s.headers["X-CSRF-TOKEN"] = m.group(1)
-    # 搜尋鄉鎮需要 urlJumpIp = region，否則會抓不到資料
     s.cookies.set("urlJumpIp", str(region), domain=".591.com.tw", path="/")
     return s
 
@@ -88,12 +82,7 @@ def fetch_listings(query):
     first_row = 0
     for _ in range(MAX_PAGES_PER_QUERY):
         params = dict(query)
-        params.update({
-            "is_format_data": "1",
-            "is_new_list": "1",
-            "type": "1",
-            "firstRow": str(first_row),
-        })
+        params["firstRow"] = str(first_row)
         try:
             r = s.get(LIST_API, params=params, timeout=20)
             data = r.json()
@@ -103,16 +92,16 @@ def fetch_listings(query):
                   file=sys.stderr)
             break
 
-        # 591 回傳結構多為 {'data': {'data': [...], 'records': '123'}}
+        # 新版 bff-house API 結構為 {'data': {'items': [...], 'total': 123}}
         block = data.get("data", {}) if isinstance(data, dict) else {}
-        items = block.get("data") or block.get("topData") or []
+        items = block.get("items") or block.get("topData") or []
         if not items:
             break
         results.extend(items)
 
-        records = int(str(block.get("records", "0")).replace(",", "") or 0)
+        total = int(str(block.get("total", "0")).replace(",", "") or 0)
         first_row += PAGE_SIZE
-        if first_row >= records:
+        if first_row >= total:
             break
         time.sleep(REQUEST_DELAY)
     return results
@@ -127,25 +116,26 @@ def g(item, *keys, default=""):
 
 
 def normalize(item):
-    hid = str(g(item, "post_id", "id", "houseid", default=""))
+    hid = str(g(item, "id", "post_id", "houseid", default=""))
     price_raw = str(g(item, "price", default="0")).replace(",", "")
     price = int(re.sub(r"[^\d]", "", price_raw) or 0)
+    photo_list = g(item, "photoList", default=[]) or []
     return {
         "id": hid,
         "title": html.unescape(str(g(item, "title", default="(無標題)"))),
         "price": price,
-        "price_unit": g(item, "unit", default="元/月"),
-        "rooms": g(item, "room", "layout", default=""),
-        "area": g(item, "area", default=""),
-        "floor": g(item, "floor_str", "floor", default=""),
+        "price_unit": g(item, "price_unit", "unit", default="元/月"),
+        "rooms": g(item, "layoutStr", "room", "layout", default=""),
+        "area": g(item, "area_name", "area", default=""),
+        "floor": g(item, "floor_name", "floor_str", "floor", default=""),
         "kind": g(item, "kind_name", "kind_str", default=""),
-        "address": g(item, "location", "address", "section_name", default=""),
-        "community": g(item, "community", default=""),
+        "address": g(item, "address", "location", "section_name", default=""),
+        "community": g(item, "community_name", "community", default=""),
         "role": g(item, "role_name", "kind", default=""),   # 屋主 / 仲介
         "tags": [t.get("value", t) if isinstance(t, dict) else t
-                 for t in (g(item, "tag", default=[]) or [])],
-        "photo": g(item, "photo_list", "cover", "photoSrc", default=""),
-        "url": f"https://rent.591.com.tw/{hid}" if hid else "",
+                 for t in (g(item, "tags", "tag", default=[]) or [])],
+        "photo": (photo_list[0] if photo_list else g(item, "cover", "photoSrc", default="")),
+        "url": g(item, "url", default=(f"https://rent.591.com.tw/{hid}" if hid else "")),
         "region_name": g(item, "regionName", default=""),
         "section_name": g(item, "sectionName", default=""),
     }
@@ -371,6 +361,7 @@ def render_html(rows, cfg):
 <footer>個人找房用途 · 資料來源 591 · 條款細節（三貓／寵物附約／獨立電水）以房東現場說明為準</footer>
 </body></html>"""
 
+    os.makedirs(os.path.dirname(HTML_PATH), exist_ok=True)
     with open(HTML_PATH, "w", encoding="utf-8") as f:
         f.write(doc)
 
