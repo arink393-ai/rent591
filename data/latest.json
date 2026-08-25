@@ -1,178 +1,26 @@
 {
-  "updated": "2026-08-24T12:34:36.597318+08:00",
+  "updated": "2026-08-25T12:28:23.682432+08:00",
   "rows": [
     {
-      "id": "21882453",
-      "title": "台北文山區溫馨兩房出租",
-      "price": 16000,
-      "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "16坪",
-      "floor": "5F/5F",
-      "kind": "整層住家",
-      "address": "文山區-興隆路四段8巷3號",
-      "community": "",
-      "role": "屋主吳先生",
-      "tags": [
-        "屋主直租",
-        "新上架",
-        " 拎包入住",
-        "隨時可遷入",
-        "可養寵物",
-        "免管理費"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/08/23/178748121921392900.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21882453",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-文山區(公館/萬隆/景美)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          true
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "new",
-      "price_delta": 0
-    },
-    {
-      "id": "21885757",
-      "title": "近江華高中✨可報稅可貓🌸低樓層兩房+陽台❤️獨洗✅含水費",
-      "price": 26000,
-      "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "13坪",
-      "floor": "2F/3F",
-      "kind": "整層住家",
-      "address": "萬華區-西園路二段",
-      "community": "🌸低樓層兩房+陽台",
-      "role": "仲介楊小姐",
-      "tags": [
-        "影片賞屋",
-        "新上架",
-        "可報稅",
-        " 拎包入住",
-        "近商圈",
-        "可開伙"
-      ],
-      "photo": "https://img2.591.com.tw/house/2026/08/24/178754505031924100.jpg!fit.1000x.water2.jpg",
-      "url": "https://rent.591.com.tw/21885757",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "new",
-      "price_delta": 0
-    },
-    {
-      "id": "21797711",
-      "title": "捷運站走路三分鐘，可租補／短租/押金一個月",
-      "price": 9000,
+      "id": "21866171",
+      "title": "近捷運大坪林【超值3房2衛】養寵洽★房皆有窗★獨洗陽台",
+      "price": 18999,
       "price_unit": "元/月",
       "rooms": "3房2廳",
-      "area": "40坪",
-      "floor": "3F/5F",
+      "area": "21坪",
+      "floor": "6F/6F",
       "kind": "整層住家",
-      "address": "信義區-中坡南路98巷",
-      "community": "崇德名門",
-      "role": "代理人黃先生",
-      "tags": [
-        "近捷運",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物",
-        "押一付一",
-        "可短租"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/07/08/178350157845561609.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21797711",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21798096",
-      "title": "獨家🔥大坪林3分鐘✦採光兩房✦超大露臺✦學生首選✦可貓",
-      "price": 13999,
-      "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "12.8坪",
-      "floor": "頂樓加蓋/5F",
-      "kind": "整層住家",
-      "address": "新店區-寶元路一段",
+      "address": "新店區-建國路",
       "community": "",
-      "role": "仲介趙先生",
+      "role": "仲介薛先生",
       "tags": [
         "近捷運",
         "新上架",
         "近商圈",
-        "隨時可遷入",
-        "可開伙",
         "可養寵物"
       ],
-      "photo": "https://img1.591.com.tw/house/2026/08/09/178626132501606302.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21798096",
+      "photo": "https://img1.591.com.tw/house/2026/08/21/178728818090189302.jpg!510x400.jpg",
+      "url": "https://rent.591.com.tw/21866171",
       "region_name": "",
       "section_name": "",
       "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
@@ -198,28 +46,281 @@
           false
         ]
       ],
-      "status": "same",
+      "status": "new",
       "price_delta": 0
     },
     {
-      "id": "20528039",
-      "title": "面溪背山安靜採光佳通風3房2廳1衛",
-      "price": 15000,
+      "id": "21861547",
+      "title": "精緻裝潢黃金一樓大兩房｜夢幻大廚房＋專屬陽光大陽台｜用綠意與",
+      "price": 23000,
       "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "25坪",
-      "floor": "3F/4F",
+      "rooms": "2房2廳",
+      "area": "19.7坪",
+      "floor": "1F/17F",
       "kind": "整層住家",
-      "address": "新店區-新烏路三段寶島巷2弄",
-      "community": "",
-      "role": "代理人黃小姐",
+      "address": "新店區-安祥路110巷",
+      "community": "綠野香坡H區",
+      "role": "仲介莊先生",
       "tags": [
+        "影片賞屋",
+        "新上架",
+        " 拎包入住",
+        "有電梯",
+        "可開伙",
+        "可養寵物"
+      ],
+      "photo": "https://img2.591.com.tw/video/cover/2026-08-19/3214228.png!1000x.water2.png",
+      "url": "https://rent.591.com.tw/21861547",
+      "region_name": "",
+      "section_name": "",
+      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
+      "manual_checks": [
+        [
+          "可養3隻貓＋簽寵物條款",
+          true
+        ],
+        [
+          "台電台水/水費含租",
+          false
+        ],
+        [
+          "管理費是否含於租金",
+          false
+        ],
+        [
+          "有機車位/好停車",
+          false
+        ],
+        [
+          "有管理員/代收包裹",
+          false
+        ]
+      ],
+      "status": "new",
+      "price_delta": 0
+    },
+    {
+      "id": "21889223",
+      "title": "新店光華街電梯2房出租2.5萬",
+      "price": 25000,
+      "price_unit": "元/月",
+      "rooms": "2房2廳",
+      "area": "20坪",
+      "floor": "4F/6F",
+      "kind": "整層住家",
+      "address": "新店區-光華街20巷",
+      "community": "皇家城堡",
+      "role": "仲介廖先生",
+      "tags": [
+        "新上架",
+        "可報稅",
+        "有電梯",
+        "可開伙",
+        "可養寵物",
+        "南北通透"
+      ],
+      "photo": "https://img1.591.com.tw/house/2026/01/18/176871848451132302.jpg!510x400.jpg",
+      "url": "https://rent.591.com.tw/21889223",
+      "region_name": "",
+      "section_name": "",
+      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
+      "manual_checks": [
+        [
+          "可養3隻貓＋簽寵物條款",
+          true
+        ],
+        [
+          "台電台水/水費含租",
+          false
+        ],
+        [
+          "管理費是否含於租金",
+          false
+        ],
+        [
+          "有機車位/好停車",
+          false
+        ],
+        [
+          "有管理員/代收包裹",
+          false
+        ]
+      ],
+      "status": "new",
+      "price_delta": 0
+    },
+    {
+      "id": "21890219",
+      "title": "六月全戶室內裝修完成極為新穎，爲首次居住且可辦租補",
+      "price": 28000,
+      "price_unit": "元/月",
+      "rooms": "2房2廳",
+      "area": "28坪",
+      "floor": "5F/5F",
+      "kind": "整層住家",
+      "address": "文山區-光輝路21巷",
+      "community": "",
+      "role": "屋主張小姐",
+      "tags": [
+        "屋主直租",
+        "新上架",
+        "可報稅",
         "隨時可遷入",
         "可開伙",
         "可養寵物"
       ],
-      "photo": "https://img2.591.com.tw/house/2014/09/29/141196296667136505.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/20528039",
+      "photo": "https://img2.591.com.tw/house/2026/08/25/178759130435063804.jpg!510x400.jpg",
+      "url": "https://rent.591.com.tw/21890219",
+      "region_name": "",
+      "section_name": "",
+      "group": "台北-文山區(公館/萬隆/景美)",
+      "manual_checks": [
+        [
+          "可養3隻貓＋簽寵物條款",
+          true
+        ],
+        [
+          "台電台水/水費含租",
+          false
+        ],
+        [
+          "管理費是否含於租金",
+          false
+        ],
+        [
+          "有機車位/好停車",
+          false
+        ],
+        [
+          "有管理員/代收包裹",
+          false
+        ]
+      ],
+      "status": "new",
+      "price_delta": 0
+    },
+    {
+      "id": "21867642",
+      "title": "可租補/文山區木柵兩房/採光好/可貓",
+      "price": 30000,
+      "price_unit": "元/月",
+      "rooms": "2房1廳",
+      "area": "27坪",
+      "floor": "3F/4F",
+      "kind": "整層住家",
+      "address": "文山區-木柵路四段",
+      "community": "",
+      "role": "仲介周小姐",
+      "tags": [
+        "近捷運",
+        "新上架",
+        "可報稅",
+        "隨時可遷入",
+        "可開伙",
+        "可養寵物"
+      ],
+      "photo": "https://img1.591.com.tw/house/2026/08/19/178712158894930409.jpg!510x400.jpg",
+      "url": "https://rent.591.com.tw/21867642",
+      "region_name": "",
+      "section_name": "",
+      "group": "台北-文山區(公館/萬隆/景美)",
+      "manual_checks": [
+        [
+          "可養3隻貓＋簽寵物條款",
+          true
+        ],
+        [
+          "台電台水/水費含租",
+          false
+        ],
+        [
+          "管理費是否含於租金",
+          false
+        ],
+        [
+          "有機車位/好停車",
+          false
+        ],
+        [
+          "有管理員/代收包裹",
+          false
+        ]
+      ],
+      "status": "new",
+      "price_delta": 0
+    },
+    {
+      "id": "21888384",
+      "title": "大空間電梯三房車位",
+      "price": 30000,
+      "price_unit": "元/月",
+      "rooms": "3房2廳",
+      "area": "43坪",
+      "floor": "5F/7F",
+      "kind": "整層住家",
+      "address": "新店區-安祥路",
+      "community": "敦揚大廈",
+      "role": "仲介劉先生",
+      "tags": [
+        "新上架",
+        "可報稅",
+        "有電梯",
+        "隨時可遷入",
+        "可開伙",
+        "可養寵物"
+      ],
+      "photo": "https://img2.591.com.tw/house/2026/08/24/178756424582270109.jpg!510x400.jpg",
+      "url": "https://rent.591.com.tw/21888384",
+      "region_name": "",
+      "section_name": "",
+      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
+      "manual_checks": [
+        [
+          "可養3隻貓＋簽寵物條款",
+          true
+        ],
+        [
+          "台電台水/水費含租",
+          false
+        ],
+        [
+          "管理費是否含於租金",
+          false
+        ],
+        [
+          "有機車位/好停車",
+          true
+        ],
+        [
+          "有管理員/代收包裹",
+          false
+        ]
+      ],
+      "status": "new",
+      "price_delta": 0
+    },
+    {
+      "id": "21798096",
+      "title": "獨家🔥大坪林3分鐘✦採光兩房✦超大露臺✦學生首選✦可貓",
+      "price": 13999,
+      "price_unit": "元/月",
+      "rooms": "2房1廳",
+      "area": "12.8坪",
+      "floor": "頂樓加蓋/5F",
+      "kind": "整層住家",
+      "address": "新店區-寶元路一段",
+      "community": "",
+      "role": "仲介趙先生",
+      "tags": [
+        "近捷運",
+        "新上架",
+        "近商圈",
+        "隨時可遷入",
+        "可開伙",
+        "可養寵物"
+      ],
+      "photo": "https://img1.591.com.tw/house/2026/08/09/178626132501606302.jpg!510x400.jpg",
+      "url": "https://rent.591.com.tw/21798096",
       "region_name": "",
       "section_name": "",
       "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
@@ -297,27 +398,24 @@
       "price_delta": 0
     },
     {
-      "id": "21787304",
-      "title": "碧潭超新傢俱家電樂活美寓",
-      "price": 16000,
+      "id": "20528039",
+      "title": "面溪背山安靜採光佳通風3房2廳1衛",
+      "price": 15000,
       "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "32坪",
-      "floor": "頂樓加蓋/5F",
+      "rooms": "3房2廳",
+      "area": "25坪",
+      "floor": "3F/4F",
       "kind": "整層住家",
-      "address": "新店區-永業路81巷7弄",
-      "community": "美之城",
-      "role": "屋主楊先生",
+      "address": "新店區-新烏路三段寶島巷2弄",
+      "community": "",
+      "role": "代理人黃小姐",
       "tags": [
-        "屋主直租",
-        "影片賞屋",
-        " 拎包入住",
+        "隨時可遷入",
         "可開伙",
-        "可養寵物",
-        "有車位"
+        "可養寵物"
       ],
-      "photo": "https://img1.591.com.tw/house/2021/01/21/161124003220603203.jpg!1000x.water2.jpg",
-      "url": "https://rent.591.com.tw/21787304",
+      "photo": "https://img1.591.com.tw/house/2014/09/29/141196296667136505.jpg!510x400.jpg",
+      "url": "https://rent.591.com.tw/20528039",
       "region_name": "",
       "section_name": "",
       "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
@@ -336,7 +434,57 @@
         ],
         [
           "有機車位/好停車",
+          false
+        ],
+        [
+          "有管理員/代收包裹",
+          false
+        ]
+      ],
+      "status": "same",
+      "price_delta": 0
+    },
+    {
+      "id": "21882453",
+      "title": "台北文山區溫馨兩房出租",
+      "price": 16000,
+      "price_unit": "元/月",
+      "rooms": "2房1廳",
+      "area": "16坪",
+      "floor": "5F/5F",
+      "kind": "整層住家",
+      "address": "文山區-興隆路四段8巷3號",
+      "community": "",
+      "role": "屋主吳先生",
+      "tags": [
+        "屋主直租",
+        "新上架",
+        " 拎包入住",
+        "隨時可遷入",
+        "可養寵物",
+        "免管理費"
+      ],
+      "photo": "https://img1.591.com.tw/house/2026/08/23/178748121921392900.jpg!510x400.jpg",
+      "url": "https://rent.591.com.tw/21882453",
+      "region_name": "",
+      "section_name": "",
+      "group": "台北-文山區(公館/萬隆/景美)",
+      "manual_checks": [
+        [
+          "可養3隻貓＋簽寵物條款",
           true
+        ],
+        [
+          "台電台水/水費含租",
+          false
+        ],
+        [
+          "管理費是否含於租金",
+          true
+        ],
+        [
+          "有機車位/好停車",
+          false
         ],
         [
           "有管理員/代收包裹",
@@ -397,27 +545,27 @@
       "price_delta": 0
     },
     {
-      "id": "21862509",
-      "title": "新店高中公寓4樓",
-      "price": 17000,
+      "id": "21787304",
+      "title": "碧潭超新傢俱家電樂活美寓",
+      "price": 16000,
       "price_unit": "元/月",
-      "rooms": "3房1廳",
-      "area": "28坪",
-      "floor": "4F/4F",
+      "rooms": "2房1廳",
+      "area": "32坪",
+      "floor": "頂樓加蓋/5F",
       "kind": "整層住家",
-      "address": "新店區-中央路",
-      "community": "",
-      "role": "仲介許小姐",
+      "address": "新店區-永業路81巷7弄",
+      "community": "美之城",
+      "role": "屋主楊先生",
       "tags": [
-        "近捷運",
-        "新上架",
-        "近商圈",
+        "屋主直租",
+        "影片賞屋",
+        " 拎包入住",
         "可開伙",
         "可養寵物",
-        "免管理費"
+        "有車位"
       ],
-      "photo": "https://images.591.com.tw/index/house/newVersion/noImgBigNew.png",
-      "url": "https://rent.591.com.tw/21862509",
+      "photo": "https://img2.591.com.tw/house/2021/01/21/161124003220603203.jpg!1000x.water2.jpg",
+      "url": "https://rent.591.com.tw/21787304",
       "region_name": "",
       "section_name": "",
       "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
@@ -432,65 +580,15 @@
         ],
         [
           "管理費是否含於租金",
-          true
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21865397",
-      "title": "中山站/條通、3.6米、陽台、代收垃圾、9／5退租",
-      "price": 17000,
-      "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "10坪",
-      "floor": "3F/3F",
-      "kind": "整層住家",
-      "address": "中山區-林森北路133巷",
-      "community": "",
-      "role": "仲介陳先生",
-      "tags": [
-        "影片賞屋",
-        "近捷運",
-        "新上架",
-        " 拎包入住",
-        "近商圈",
-        "隨時可遷入"
-      ],
-      "photo": "https://img2.591.com.tw/video/cover/2025-06-27/2343473.png!1000x.water2.png",
-      "url": "https://rent.591.com.tw/21865397",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
           false
         ],
         [
           "有機車位/好停車",
-          false
+          true
         ],
         [
           "有管理員/代收包裹",
-          true
+          false
         ]
       ],
       "status": "same",
@@ -516,7 +614,7 @@
         "可開伙",
         "可養寵物"
       ],
-      "photo": "https://img1.591.com.tw/house/2026/07/01/178292087906711604.jpg!510x400.jpg",
+      "photo": "https://img2.591.com.tw/house/2026/07/01/178292087906711604.jpg!510x400.jpg",
       "url": "https://rent.591.com.tw/21558743",
       "region_name": "",
       "section_name": "",
@@ -616,7 +714,7 @@
         "可開伙",
         "可養寵物"
       ],
-      "photo": "https://img2.591.com.tw/house/2026/06/14/178142108729739504.jpg!fit.1000x.water2.jpg",
+      "photo": "https://img1.591.com.tw/house/2026/06/14/178142108729739504.jpg!fit.1000x.water2.jpg",
       "url": "https://rent.591.com.tw/21764561",
       "region_name": "",
       "section_name": "",
@@ -666,303 +764,8 @@
         "隨時可遷入",
         "可開伙"
       ],
-      "photo": "https://img1.591.com.tw/house/2026/06/14/178142108729739504.jpg!fit.1000x.water2.jpg",
-      "url": "https://rent.591.com.tw/21880814",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21800226",
-      "title": "可寵三房兩廳☀️大坪林站☀️合租首選生活機能佳",
-      "price": 18000,
-      "price_unit": "元/月",
-      "rooms": "3房1廳",
-      "area": "22坪",
-      "floor": "頂樓加蓋/5F",
-      "kind": "整層住家",
-      "address": "新店區-建國路291巷",
-      "community": "美景村",
-      "role": "仲介杜小姐",
-      "tags": [
-        "近捷運",
-        "近商圈",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img2.591.com.tw/house/2026/06/23/178222604542257206.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21800226",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21850287",
-      "title": "可養寵🏡大坪林站🏡便宜三房兩衛🏡巷弄安靜🏡格局方正",
-      "price": 18000,
-      "price_unit": "元/月",
-      "rooms": "3房1廳",
-      "area": "22坪",
-      "floor": "6F/6F",
-      "kind": "整層住家",
-      "address": "新店區-建國路291巷",
-      "community": "",
-      "role": "仲介邱小姐",
-      "tags": [
-        "影片賞屋",
-        "近捷運",
-        "近商圈",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物"
-      ],
       "photo": "https://img2.591.com.tw/house/2026/06/14/178142108729739504.jpg!fit.1000x.water2.jpg",
-      "url": "https://rent.591.com.tw/21850287",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21808768",
-      "title": "【可租補入戶籍寵物】明亮高樓電梯兩房",
-      "price": 18000,
-      "price_unit": "元/月",
-      "rooms": "2房2廳",
-      "area": "22坪",
-      "floor": "16F/17F",
-      "kind": "整層住家",
-      "address": "新店區-安祥路110巷",
-      "community": "綠野香坡H區",
-      "role": "仲介林小姐",
-      "tags": [
-        "有電梯",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img2.591.com.tw/house/2024/11/10/173121068527159206.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21808768",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21792324",
-      "title": "🌿大坪林捷運｜靜巷採光優質頂加｜3房2廳2衛",
-      "price": 19000,
-      "price_unit": "元/月",
-      "rooms": "2房2廳",
-      "area": "28坪",
-      "floor": "5F/5F",
-      "kind": "整層住家",
-      "address": "新店區-建國路291弄",
-      "community": "看房請加Line ID 613390",
-      "role": "仲介周小姐",
-      "tags": [
-        "近捷運",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img2.591.com.tw/house/2026/08/03/178574902970389805.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21792324",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21844512",
-      "title": "寵物友善/大空間三房/地下室停車位",
-      "price": 19900,
-      "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "32坪",
-      "floor": "2F~3F/5F",
-      "kind": "整層住家",
-      "address": "新店區-吉祥街15巷26號",
-      "community": "",
-      "role": "仲介張小姐",
-      "tags": [
-        "免服務費",
-        "社會住宅",
-        "可報稅",
-        " 拎包入住",
-        "隨時可遷入",
-        "可開伙"
-      ],
-      "photo": "https://img2.591.com.tw/house/2026/08/17/178693077043085208.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21844512",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          true
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21854688",
-      "title": "康泰社區3房全新3部變頻冷氣可租補戶籍可養貓",
-      "price": 19900,
-      "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "28.8坪",
-      "floor": "4F/5F",
-      "kind": "整層住家",
-      "address": "新店區-安康路三段355巷",
-      "community": "康泰社區",
-      "role": "仲介藍小姐",
-      "tags": [
-        "新上架",
-        "可報稅",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物",
-        "可入籍"
-      ],
-      "photo": "https://img2.591.com.tw/house/2026/07/09/178358457401672100.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21854688",
+      "url": "https://rent.591.com.tw/21880814",
       "region_name": "",
       "section_name": "",
       "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
@@ -1011,7 +814,7 @@
         "可養寵物",
         "免管理費"
       ],
-      "photo": "https://img1.591.com.tw/house/2026/05/14/177875947357462105.jpg!510x400.jpg",
+      "photo": "https://img2.591.com.tw/house/2026/05/14/177875947357462105.jpg!510x400.jpg",
       "url": "https://rent.591.com.tw/21769299",
       "region_name": "",
       "section_name": "",
@@ -1155,13 +958,13 @@
       "role": "仲介王小姐",
       "tags": [
         "影片賞屋",
-        "新上架",
         "可報稅",
         "隨時可遷入",
         "可開伙",
-        "可養寵物"
+        "可養寵物",
+        "可入籍"
       ],
-      "photo": "https://img1.591.com.tw/video/cover/2026-08-07/3198724.png!1000x.water2.png",
+      "photo": "https://img2.591.com.tw/video/cover/2026-08-07/3198724.png!1000x.water2.png",
       "url": "https://rent.591.com.tw/21851228",
       "region_name": "",
       "section_name": "",
@@ -1211,7 +1014,7 @@
         "可報稅",
         "隨時可遷入"
       ],
-      "photo": "https://img2.591.com.tw/video/cover/2026-08-04/3192876.png!1000x.water2.png",
+      "photo": "https://img1.591.com.tw/video/cover/2026-08-04/3192876.png!1000x.water2.png",
       "url": "https://rent.591.com.tw/21759472",
       "region_name": "",
       "section_name": "",
@@ -1220,56 +1023,6 @@
         [
           "可養3隻貓＋簽寵物條款",
           false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21814214",
-      "title": "公寓二樓溫馨3房",
-      "price": 22000,
-      "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "28.5坪",
-      "floor": "2F/5F",
-      "kind": "整層住家",
-      "address": "新店區-富貴街21巷",
-      "community": "培富如意街公寓",
-      "role": "仲介謝小姐",
-      "tags": [
-        "免服務費",
-        "社會住宅",
-        "可報稅",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img2.591.com.tw/house/2026/08/11/178645354888800904.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21814214",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
         ],
         [
           "台電台水/水費含租",
@@ -1306,12 +1059,12 @@
       "tags": [
         "影片賞屋",
         "近捷運",
-        "新上架",
         "近商圈",
         "隨時可遷入",
-        "可開伙"
+        "可開伙",
+        "可養寵物"
       ],
-      "photo": "https://img1.591.com.tw/video/cover/2026-07-13/3162773.png!1000x.water2.png",
+      "photo": "https://img2.591.com.tw/video/cover/2026-07-13/3162773.png!1000x.water2.png",
       "url": "https://rent.591.com.tw/21851477",
       "region_name": "",
       "section_name": "",
@@ -1319,7 +1072,7 @@
       "manual_checks": [
         [
           "可養3隻貓＋簽寵物條款",
-          false
+          true
         ],
         [
           "台電台水/水費含租",
@@ -1442,205 +1195,6 @@
       "price_delta": 0
     },
     {
-      "id": "21814424",
-      "title": "央北重劃區/十四張歷史公園旁/小透天3房2室1露台",
-      "price": 23000,
-      "price_unit": "元/月",
-      "rooms": "3房1廳",
-      "area": "28坪",
-      "floor": "1F~4F/4F",
-      "kind": "整層住家",
-      "address": "新店區-民生路145巷",
-      "community": "",
-      "role": "仲介張先生",
-      "tags": [
-        "近捷運",
-        "免服務費",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物",
-        "免管理費"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/08/14/178667372663333800.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21814424",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          true
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21864476",
-      "title": "宜居首選🍧3房2廳~寵物友善🍧理想住所",
-      "price": 23000,
-      "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "25.3坪",
-      "floor": "2F/5F",
-      "kind": "整層住家",
-      "address": "新店區-安德街",
-      "community": "",
-      "role": "仲介陳先生",
-      "tags": [
-        "新上架",
-        "租金補貼",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/07/20/178453150062699206.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21864476",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21857282",
-      "title": "大坪林🚝獨洗曬👕可開伙🔥大採光☀️掀床🛏️衛浴開窗",
-      "price": 23000,
-      "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "7坪",
-      "floor": "2F/5F",
-      "kind": "整層住家",
-      "address": "新店區-中興路三段205巷8弄",
-      "community": "",
-      "role": "仲介陳小姐",
-      "tags": [
-        "近捷運",
-        "新上架",
-        " 拎包入住",
-        "近商圈",
-        "隨時可遷入",
-        "可開伙"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/08/18/178706638288534403.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21857282",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21857296",
-      "title": "大坪林🚝獨洗曬👕可開伙🔥大採光☀️掀床🛏️",
-      "price": 23000,
-      "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "7坪",
-      "floor": "2F/5F",
-      "kind": "整層住家",
-      "address": "新店區-中興路三段205巷8弄",
-      "community": "",
-      "role": "仲介陳小姐",
-      "tags": [
-        "近捷運",
-        "新上架",
-        " 拎包入住",
-        "近商圈",
-        "隨時可遷入",
-        "可開伙"
-      ],
-      "photo": "https://img2.591.com.tw/house/2026/08/18/178706662591368007.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21857296",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
       "id": "21864160",
       "title": "秒殺🔥捷運大坪林✦超值二房合粗首選✦低樓層✦獨洗曬✦木地板",
       "price": 23000,
@@ -1691,27 +1245,76 @@
       "price_delta": 0
     },
     {
-      "id": "21879481",
-      "title": "七張站☀️可寵三房兩廳兩衛☀️裕隆城生活機能佳",
+      "id": "21864476",
+      "title": "一年起租~管理規範🚩現代美宅",
       "price": 23000,
       "price_unit": "元/月",
       "rooms": "3房2廳",
-      "area": "30.4坪",
-      "floor": "4F/4F",
+      "area": "25.3坪",
+      "floor": "2F/5F",
       "kind": "整層住家",
-      "address": "新店區-中興路二段",
+      "address": "新店區-安德街",
       "community": "",
-      "role": "仲介杜小姐",
+      "role": "仲介陳先生",
+      "tags": [
+        "新上架",
+        "租金補貼",
+        "隨時可遷入",
+        "可開伙",
+        "可養寵物"
+      ],
+      "photo": "https://img2.591.com.tw/house/2026/07/20/178453150062699206.jpg!510x400.jpg",
+      "url": "https://rent.591.com.tw/21864476",
+      "region_name": "",
+      "section_name": "",
+      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
+      "manual_checks": [
+        [
+          "可養3隻貓＋簽寵物條款",
+          true
+        ],
+        [
+          "台電台水/水費含租",
+          false
+        ],
+        [
+          "管理費是否含於租金",
+          false
+        ],
+        [
+          "有機車位/好停車",
+          false
+        ],
+        [
+          "有管理員/代收包裹",
+          false
+        ]
+      ],
+      "status": "same",
+      "price_delta": 0
+    },
+    {
+      "id": "21857282",
+      "title": "大坪林🚝獨洗曬👕可開伙🔥大採光☀️掀床🛏️衛浴開窗",
+      "price": 23000,
+      "price_unit": "元/月",
+      "rooms": "2房1廳",
+      "area": "7坪",
+      "floor": "2F/5F",
+      "kind": "整層住家",
+      "address": "新店區-中興路三段205巷8弄",
+      "community": "",
+      "role": "仲介陳小姐",
       "tags": [
         "近捷運",
-        "新上架",
+        " 拎包入住",
         "近商圈",
         "隨時可遷入",
         "可開伙",
         "可養寵物"
       ],
-      "photo": "https://img1.591.com.tw/house/2026/06/17/178162657157233802.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21879481",
+      "photo": "https://img2.591.com.tw/house/2026/08/18/178706638288534403.jpg!510x400.jpg",
+      "url": "https://rent.591.com.tw/21857282",
       "region_name": "",
       "section_name": "",
       "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
@@ -1741,226 +1344,30 @@
       "price_delta": 0
     },
     {
-      "id": "21871932",
-      "title": "💎愛寵一族安康免爬高2樓美寓3房💎🍎央北團隊小鄭🍎",
-      "price": 23000,
-      "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "19.3坪",
-      "floor": "2F/5F",
-      "kind": "整層住家",
-      "address": "新店區-安康路二段379巷",
-      "community": "",
-      "role": "仲介鄭先生",
-      "tags": [
-        "新上架",
-        "可報稅",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物",
-        "可入籍"
-      ],
-      "photo": "https://img2.591.com.tw/house/2026/07/20/178455086375561602.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21871932",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21730714",
-      "title": "✨可租補/低樓層大房子/綠意盎然",
-      "price": 23000,
-      "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "26.8坪",
-      "floor": "3F/5F",
-      "kind": "整層住家",
-      "address": "新店區-北宜路二段56巷1弄",
-      "community": "",
-      "role": "仲介李小姐",
-      "tags": [
-        "免服務費",
-        "社會住宅",
-        "租金補貼",
-        "可報稅",
-        "隨時可遷入",
-        "可開伙"
-      ],
-      "photo": "https://img2.591.com.tw/house/2025/12/30/176706773589743305.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21730714",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21824181",
-      "title": "✨可租補/低樓層大房子/綠意盎然",
-      "price": 23000,
-      "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "26.8坪",
-      "floor": "3F/5F",
-      "kind": "整層住家",
-      "address": "新店區-北宜路二段56巷1弄",
-      "community": "",
-      "role": "仲介李小姐",
-      "tags": [
-        "免服務費",
-        "社會住宅",
-        "租金補貼",
-        "可報稅",
-        "隨時可遷入",
-        "可開伙"
-      ],
-      "photo": "https://img2.591.com.tw/house/2025/12/30/176706773589743305.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21824181",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21766755",
-      "title": "格局方正,交通方便,市場就在路口,公園也有.",
-      "price": 23000,
-      "price_unit": "元/月",
-      "rooms": "3房0廳",
-      "area": "23坪",
-      "floor": "1F/5F",
-      "kind": "整層住家",
-      "address": "新店區-富貴街12巷16號",
-      "community": "玫瑰中國城",
-      "role": "屋主謝太太",
-      "tags": [
-        "屋主直租",
-        "可開伙",
-        "可養寵物",
-        "有車位"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/08/04/178582953046411501.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21766755",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          true
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21875178",
-      "title": "圓山捷運2房1聽1衛可申請租屋補助",
+      "id": "21857296",
+      "title": "大坪林🚝獨洗曬👕可開伙🔥大採光☀️掀床🛏️",
       "price": 23000,
       "price_unit": "元/月",
       "rooms": "2房1廳",
-      "area": "23坪",
-      "floor": "頂樓加蓋/4F",
+      "area": "7坪",
+      "floor": "2F/5F",
       "kind": "整層住家",
-      "address": "大同區-承德路三段",
+      "address": "新店區-中興路三段205巷8弄",
       "community": "",
-      "role": "仲介馬先生",
+      "role": "仲介陳小姐",
       "tags": [
         "近捷運",
-        "新上架",
+        " 拎包入住",
+        "近商圈",
         "隨時可遷入",
+        "可開伙",
         "可養寵物"
       ],
-      "photo": "https://img2.591.com.tw/house/2024/12/10/173379998862874704.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21875178",
+      "photo": "https://img2.591.com.tw/house/2026/08/18/178706662591368007.jpg!510x400.jpg",
+      "url": "https://rent.591.com.tw/21857296",
       "region_name": "",
       "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
+      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
       "manual_checks": [
         [
           "可養3隻貓＋簽寵物條款",
@@ -2054,111 +1461,11 @@
         "可開伙",
         "可養寵物"
       ],
-      "photo": "https://img2.591.com.tw/house/2026/07/03/178307348306537701.jpg!510x400.jpg",
+      "photo": "https://img1.591.com.tw/house/2026/07/03/178307348306537701.jpg!510x400.jpg",
       "url": "https://rent.591.com.tw/21802135",
       "region_name": "",
       "section_name": "",
       "group": "台北-文山區(公館/萬隆/景美)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21741312",
-      "title": "✿台電✿寵物可貓✿大三房✿前後陽台✿採光通風佳✿光復橋✿",
-      "price": 24963,
-      "price_unit": "元/月",
-      "rooms": "3房1廳",
-      "area": "25坪",
-      "floor": "5F/5F",
-      "kind": "整層住家",
-      "address": "萬華區-環河南路三段",
-      "community": "",
-      "role": "屋主黃先生",
-      "tags": [
-        "屋主直租",
-        " 拎包入住",
-        "近商圈",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/07/31/178548932414297407.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21741312",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          true
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21854487",
-      "title": "🔥南京復興站️🏡健身公寓陽台2房😸寵⭕️可長短租",
-      "price": 24999,
-      "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "8.6坪",
-      "floor": "頂樓加蓋/5F",
-      "kind": "整層住家",
-      "address": "中山區-合江街61巷",
-      "community": "找家，也是找讓心舒服的位置🍀",
-      "role": "仲介許小姐",
-      "tags": [
-        "影片賞屋",
-        "近捷運",
-        "新上架",
-        " 拎包入住",
-        "近商圈",
-        "可開伙"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/08/18/178703832296864605.jpg!fit.1000x.water2.jpg",
-      "url": "https://rent.591.com.tw/21854487",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
       "manual_checks": [
         [
           "可養3隻貓＋簽寵物條款",
@@ -2204,7 +1511,7 @@
         "免管理費",
         "可短租"
       ],
-      "photo": "https://img2.591.com.tw/house/2026/07/22/178469084983329703.jpg!510x400.jpg",
+      "photo": "https://img1.591.com.tw/house/2026/07/22/178469084983329703.jpg!510x400.jpg",
       "url": "https://rent.591.com.tw/21682964",
       "region_name": "",
       "section_name": "",
@@ -2221,56 +1528,6 @@
         [
           "管理費是否含於租金",
           true
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21852336",
-      "title": "璦丁堡社區景觀2房🌈安泰路🌈新店冠軍團隊鄒S",
-      "price": 25000,
-      "price_unit": "元/月",
-      "rooms": "2房2廳",
-      "area": "19.2坪",
-      "floor": "5F/7F",
-      "kind": "整層住家",
-      "address": "新店區-安泰路",
-      "community": "璦丁堡",
-      "role": "仲介鄒小姐",
-      "tags": [
-        "新上架",
-        "免服務費",
-        "社會住宅",
-        " 拎包入住",
-        "有電梯",
-        "隨時可遷入"
-      ],
-      "photo": "https://img2.591.com.tw/house/2026/08/18/178702112146685506.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21852336",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
         ],
         [
           "有機車位/好停車",
@@ -2304,7 +1561,7 @@
         "有電梯",
         "可開伙"
       ],
-      "photo": "https://img2.591.com.tw/video/cover/2026-08-15/3209061.png!1000x.water2.png",
+      "photo": "https://img1.591.com.tw/video/cover/2026-08-15/3209061.png!1000x.water2.png",
       "url": "https://rent.591.com.tw/21837850",
       "region_name": "",
       "section_name": "",
@@ -2329,54 +1586,6 @@
         [
           "有管理員/代收包裹",
           true
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21827765",
-      "title": "近K6輕軌/安民商圈靜巷1樓",
-      "price": 25000,
-      "price_unit": "元/月",
-      "rooms": "3房1廳",
-      "area": "24坪",
-      "floor": "1F/2F",
-      "kind": "整層住家",
-      "address": "新店區-光華街5巷",
-      "community": "",
-      "role": "仲介董小姐",
-      "tags": [
-        "租金補貼",
-        "可開伙",
-        "可養寵物",
-        "免管理費"
-      ],
-      "photo": "https://img1.591.com.tw/house/2025/04/07/174400475881726604.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21827765",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          true
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
         ]
       ],
       "status": "same",
@@ -2483,452 +1692,6 @@
       "price_delta": 0
     },
     {
-      "id": "21698284",
-      "title": "兆基社會住宅🏡綠寶石電梯三房",
-      "price": 26000,
-      "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "25.8坪",
-      "floor": "4F/7F",
-      "kind": "整層住家",
-      "address": "新店區-吉安街",
-      "community": "綠寶石",
-      "role": "仲介范先生",
-      "tags": [
-        "免服務費",
-        "社會住宅",
-        "可報稅",
-        "近商圈",
-        "有電梯",
-        "隨時可遷入"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/07/24/178488029097643502.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21698284",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21823285",
-      "title": "👑【皇嘉物業】🏠新店生活機能讚！全新裝潢3房2廳🔥",
-      "price": 26000,
-      "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "20坪",
-      "floor": "頂樓加蓋/5F",
-      "kind": "整層住家",
-      "address": "新店區-中興路三段205巷",
-      "community": "",
-      "role": "仲介邱先生",
-      "tags": [
-        "近捷運",
-        " 拎包入住",
-        "近商圈",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img2.591.com.tw/house/2026/08/13/178659129956847707.jpeg!510x400.jpeg",
-      "url": "https://rent.591.com.tw/21823285",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21787101",
-      "title": "✨雙城國小旁｜20坪店辦診所出租✨",
-      "price": 26000,
-      "price_unit": "元/月",
-      "rooms": "開放式格局",
-      "area": "20坪",
-      "floor": "1F/5F",
-      "kind": "整層住家",
-      "address": "新店區-安康路三段",
-      "community": "",
-      "role": "仲介袁小姐",
-      "tags": [
-        "可報稅",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物",
-        "免管理費",
-        "可入籍"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/06/24/178227539405512201.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21787101",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          true
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "15556294",
-      "title": "北投大兩房/寵物友善/可報稅租補/歡迎賞屋",
-      "price": 26000,
-      "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "24.9坪",
-      "floor": "1F/7F",
-      "kind": "整層住家",
-      "address": "北投區-泉源路",
-      "community": "山居生活大廈",
-      "role": "仲介黃先生",
-      "tags": [
-        " 拎包入住",
-        "近商圈",
-        "有電梯",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img1.591.com.tw/house/2023/10/17/169753822139917414.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/15556294",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "19462239",
-      "title": "捷運昆陽站低樓層通風採光好兩房一廳可養貓",
-      "price": 26000,
-      "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "12坪",
-      "floor": "2F/4F",
-      "kind": "整層住家",
-      "address": "南港區-忠孝東路六段",
-      "community": "",
-      "role": "仲介陳小姐",
-      "tags": [
-        "近捷運",
-        "新上架",
-        " 拎包入住",
-        "近商圈",
-        "隨時可遷入",
-        "可開伙"
-      ],
-      "photo": "https://img2.591.com.tw/house/2024/06/18/171871498649150403.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/19462239",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21822089",
-      "title": "💯近西園醫院/光復橋✅可寵/垃圾代收/獨洗❤️採光兩房",
-      "price": 26000,
-      "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "13坪",
-      "floor": "2F/3F",
-      "kind": "整層住家",
-      "address": "萬華區-西園路二段",
-      "community": "",
-      "role": "仲介莊先生",
-      "tags": [
-        "可報稅",
-        " 拎包入住",
-        "近商圈",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img2.591.com.tw/house/2026/08/13/178656443549168100.png!510x400.png",
-      "url": "https://rent.591.com.tw/21822089",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          true
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "19462883",
-      "title": "獨立陽台~可養貓貓房~垃圾代收~免爬高樓層~提供入戶籍",
-      "price": 26000,
-      "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "15坪",
-      "floor": "2F/3F",
-      "kind": "整層住家",
-      "address": "萬華區-西園路二段",
-      "community": "",
-      "role": "仲介莊先生",
-      "tags": [
-        "可報稅",
-        " 拎包入住",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物",
-        "可入籍"
-      ],
-      "photo": "https://img2.591.com.tw/house/2024/08/02/172257834466798209.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/19462883",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          true
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21840865",
-      "title": "🔥西園路🏡優質低樓層陽台2房💡垃圾代收✅報稅入籍😸貓",
-      "price": 26000,
-      "price_unit": "元/月",
-      "rooms": "2房1廳",
-      "area": "13坪",
-      "floor": "2F/3F",
-      "kind": "整層住家",
-      "address": "萬華區-西園路二段",
-      "community": "找家，也是找讓心舒服的位置🍀",
-      "role": "仲介許小姐",
-      "tags": [
-        "影片賞屋",
-        "新上架",
-        "可報稅",
-        " 拎包入住",
-        "近商圈",
-        "可開伙"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/08/16/178685643191170503.jpg!fit.1000x.water2.jpg",
-      "url": "https://rent.591.com.tw/21840865",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          true
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21873410",
-      "title": "⭐住商小卓推薦⭐北投近公園採光三房",
-      "price": 26500,
-      "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "24.3坪",
-      "floor": "3F/4F",
-      "kind": "整層住家",
-      "address": "北投區-中和街399號",
-      "community": "",
-      "role": "仲介卓先生",
-      "tags": [
-        "新上架",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/08/21/178730008000663601.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21873410",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
       "id": "21762389",
       "title": "樂菲2房1廳1衛1陽台",
       "price": 27000,
@@ -2948,7 +1711,7 @@
         "隨時可遷入",
         "可開伙"
       ],
-      "photo": "https://img2.591.com.tw/house/2026/08/03/178576899744667506.jpg!510x400.jpg",
+      "photo": "https://img1.591.com.tw/house/2026/08/03/178576899744667506.jpg!510x400.jpg",
       "url": "https://rent.591.com.tw/21762389",
       "region_name": "",
       "section_name": "",
@@ -2957,54 +1720,6 @@
         [
           "可養3隻貓＋簽寵物條款",
           false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21775065",
-      "title": "兆基-🔥寵物友善｜全新整理大空間｜鄰近台北市🔥",
-      "price": 27000,
-      "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "29.1坪",
-      "floor": "4F/5F",
-      "kind": "整層住家",
-      "address": "新店區-中正路680巷31弄",
-      "community": "",
-      "role": "仲介郭小姐",
-      "tags": [
-        "近捷運",
-        "免服務費",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img2.591.com.tw/house/2026/08/05/178592105201167909.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21775065",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
         ],
         [
           "台電台水/水費含租",
@@ -3094,11 +1809,11 @@
         "可開伙",
         "可養寵物"
       ],
-      "photo": "https://img2.591.com.tw/house/2026/08/20/178719899518875006.jpg!510x400.jpg",
+      "photo": "https://img1.591.com.tw/house/2026/08/20/178719899518875006.jpg!510x400.jpg",
       "url": "https://rent.591.com.tw/21865648",
       "region_name": "",
       "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
+      "group": "台北-文山區(公館/萬隆/景美)",
       "manual_checks": [
         [
           "可養3隻貓＋簽寵物條款",
@@ -3144,7 +1859,7 @@
         "可養寵物",
         "可入籍"
       ],
-      "photo": "https://img2.591.com.tw/house/2026/08/13/178660838801357701.jpg!510x400.jpg",
+      "photo": "https://img1.591.com.tw/house/2026/08/13/178660838801357701.jpg!510x400.jpg",
       "url": "https://rent.591.com.tw/21825627",
       "region_name": "",
       "section_name": "",
@@ -3194,7 +1909,7 @@
         "可養寵物",
         "免管理費"
       ],
-      "photo": "https://img2.591.com.tw/house/2026/08/15/178677008969048501.jpg!510x400.jpg",
+      "photo": "https://img1.591.com.tw/house/2026/08/15/178677008969048501.jpg!510x400.jpg",
       "url": "https://rent.591.com.tw/21836541",
       "region_name": "",
       "section_name": "",
@@ -3211,255 +1926,6 @@
         [
           "管理費是否含於租金",
           true
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21823232",
-      "title": "(住辦)龍山寺8分鐘低總租金店面｜30坪大空間｜用途彈性",
-      "price": 28000,
-      "price_unit": "元/月",
-      "rooms": "開放式格局",
-      "area": "30坪",
-      "floor": "1F/5F",
-      "kind": "整層住家",
-      "address": "萬華區-桂林路244巷",
-      "community": "",
-      "role": "仲介黃小姐",
-      "tags": [
-        "近捷運",
-        "租金補貼",
-        "近商圈",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/08/13/178659322678144605.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21823232",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21810421",
-      "title": "綠意盎然達觀市景戶四改三房車位",
-      "price": 28800,
-      "price_unit": "元/月",
-      "rooms": "3房2廳",
-      "area": "56.9坪",
-      "floor": "7F/7F",
-      "kind": "整層住家",
-      "address": "新店區-達觀路22巷",
-      "community": "達觀鎮達觀22巷社區",
-      "role": "仲介周先生",
-      "tags": [
-        "有電梯",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物",
-        "有車位"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/08/11/178642549955683900.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21810421",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          true
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21763428",
-      "title": "高樓層精裝美屋",
-      "price": 29000,
-      "price_unit": "元/月",
-      "rooms": "開放式格局",
-      "area": "13.1坪",
-      "floor": "12F/15F",
-      "kind": "整層住家",
-      "address": "新店區-央北二路",
-      "community": "波爾多",
-      "role": "仲介劉先生",
-      "tags": [
-        "近商圈",
-        "有電梯",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物",
-        "有車位"
-      ],
-      "photo": "https://img1.591.com.tw/house/2024/02/22/170858759152002008.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21763428",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          true
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21855472",
-      "title": "🔥小碧潭捷運｜IKEA旁｜生活機能滿分美妝宅｜寵物友善",
-      "price": 29000,
-      "price_unit": "元/月",
-      "rooms": "2房2廳",
-      "area": "17.5坪",
-      "floor": "11F/12F",
-      "kind": "整層住家",
-      "address": "新店區-中央路",
-      "community": "中央名家",
-      "role": "仲介寬盈不動產",
-      "tags": [
-        "近捷運",
-        "新上架",
-        " 拎包入住",
-        "有電梯",
-        "隨時可遷入",
-        "可開伙"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/08/18/178704544642802201.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21855472",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21855171",
-      "title": "🔥小碧潭捷運｜IKEA旁｜生活機能滿分美妝宅｜寵物友善",
-      "price": 29000,
-      "price_unit": "元/月",
-      "rooms": "2房2廳",
-      "area": "17.5坪",
-      "floor": "11F/12F",
-      "kind": "整層住家",
-      "address": "新店區-中央路",
-      "community": "新店優質名廈",
-      "role": "仲介寬盈不動產",
-      "tags": [
-        "新上架",
-        " 拎包入住",
-        "有電梯",
-        "隨時可遷入",
-        "可開伙",
-        "可養寵物"
-      ],
-      "photo": "https://img1.591.com.tw/house/2026/08/18/178704313369581503.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21855171",
-      "region_name": "",
-      "section_name": "",
-      "group": "新北-新店區(大坪林/七張/十四張/小碧潭/區公所)",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          true
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
         ],
         [
           "有機車位/好停車",
@@ -3536,11 +2002,11 @@
       "role": "代理人簡先生",
       "tags": [
         "影片賞屋",
-        "新上架",
         "租金補貼",
         "可報稅",
         " 拎包入住",
-        "隨時可遷入"
+        "隨時可遷入",
+        "可開伙"
       ],
       "photo": "https://img2.591.com.tw/house/2026/08/18/178704151261209102.jpg!fit.1000x.water2.jpg",
       "url": "https://rent.591.com.tw/21854852",
@@ -3708,56 +2174,6 @@
         [
           "管理費是否含於租金",
           true
-        ],
-        [
-          "有機車位/好停車",
-          false
-        ],
-        [
-          "有管理員/代收包裹",
-          false
-        ]
-      ],
-      "status": "same",
-      "price_delta": 0
-    },
-    {
-      "id": "21859387",
-      "title": "麟光可貓生活機能完備宅!贈半個月搬家期",
-      "price": 30000,
-      "price_unit": "元/月",
-      "rooms": "2房2廳",
-      "area": "25坪",
-      "floor": "4F/5F",
-      "kind": "整層住家",
-      "address": "大安區-安居街75巷",
-      "community": "",
-      "role": "屋主劉先生",
-      "tags": [
-        "屋主直租",
-        "近捷運",
-        "新上架",
-        " 拎包入住",
-        "近商圈",
-        "隨時可遷入"
-      ],
-      "photo": "https://img1.591.com.tw/house/2017/10/14/150799603988689807.jpg!510x400.jpg",
-      "url": "https://rent.591.com.tw/21859387",
-      "region_name": "",
-      "section_name": "",
-      "group": "台北-中正區(古亭/台電大樓) 【請換成你複製的網址】",
-      "manual_checks": [
-        [
-          "可養3隻貓＋簽寵物條款",
-          false
-        ],
-        [
-          "台電台水/水費含租",
-          false
-        ],
-        [
-          "管理費是否含於租金",
-          false
         ],
         [
           "有機車位/好停車",
